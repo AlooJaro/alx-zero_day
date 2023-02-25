@@ -1,2 +1,2 @@
 My first readme
-Updated my collaboration; be up-to-date  readme file
+Updated my README.md for collaboration task be up-to-date.
